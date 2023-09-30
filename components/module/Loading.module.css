@@ -1,0 +1,21 @@
+.background{
+    background-color:rgba(215, 295, 295, 0.5) ;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    /* width: 205vh*/
+    height: 100vh; 
+  
+}
+.transbox{
+    background-color: rgba(235, 255, 255, 0.3);
+    -webkit-backdrop-filter: sepia(100%);
+    backdrop-filter: sepia(100%);
+    font-weight: bold;
+    padding: 100px;
+    height: 100px;
+    width: 600px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
